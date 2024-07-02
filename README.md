@@ -35,7 +35,7 @@ TaskETH - это приложение на Go для анализа измене
 
     ```env
     GETBLOCK_API_KEY=your_api_key_here
-    GETBLOCK_BASE_URL=https://eth.getblock.io/mainnet/
+    GETBLOCK_BASE_URL=https://go.getblock.io/
     NUM_WORKERS=5
     ```
 
